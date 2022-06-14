@@ -1,2 +1,2 @@
 # Portfolio_Webpage
-A Portfolio Site with Django
+Coding a portfolio webpage step by step with aid of RealPython's sample
